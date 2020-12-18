@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Background.qml</file>
+        <file>BackgroundForm.ui.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>background.jpg</file>
+        <file>email-icon.png</file>
+        <file>logo_sample.png</file>
+        <file>password-icon.png</file>
+    </qresource>
+</RCC>
